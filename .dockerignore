@@ -1,0 +1,5 @@
+.git
+.gitignore
+.DS_Store
+*.pptx
+node_modules

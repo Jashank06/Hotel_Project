@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  hotel-portal:
+    build: .
+    container_name: hotel_portal_app
+    restart: always
+    ports:
+      - "80:80"
